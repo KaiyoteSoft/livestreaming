@@ -2,9 +2,12 @@
   max-width: 960px;
 }
 
-/*
- * Custom translucent site header
- */
+#grad {
+  height: 100%;
+  background-color: #f8f9fa; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #ffecce 0% , #fcb8a1 100%); /* Standard syntax (must be last) */
+}
+
 
 .site-header {
   background-color: rgba(0, 0, 0, .85);
