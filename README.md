@@ -1,5 +1,5 @@
-# RICOH THETA Livestreaming
-RICOH THETA live streaming information 
+# RICOH THETA Live streaming
+RICOH THETA live streaming information. Site built from basic Bootstrap template. 
 
 https://theta360developers.github.io/livestreaming/
 
